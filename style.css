@@ -1,0 +1,32 @@
+body{
+    background-image: linear-gradient(to right bottom, #ffd300, #ffc800, #ffbe00, #ffb300, #ffa900, #ff9822, #ff8934, #ff7a43, #ff6663, #ff5689, #ff52b4, #fb5fe0);
+    color:white;
+    font-family: 'Nerko One', cursive;
+}
+#heading{
+    background-image: linear-gradient(to left bottom, #90f45a, #75f87a, #59fc98, #39feb4, #13ffcd, #00f5e7, #00e9f8, #00dbff, #00bcff, #009aff, #0072ff, #0c3ceb);
+    color:white;
+    font-size: 30px;
+    width: 80%;
+    letter-spacing: 5px;
+}
+.object_list{
+    color: #ff0089;
+    font-size: 20px;
+    
+}
+#camera,#snapshot{
+  width: 300px;
+  height: 300px;
+  border:3px ridge grey;
+}
+button{
+    background-color:yellowgreen;
+    color: white;
+    margin: 20px;
+    letter-spacing: 5px;
+}
+#object_result,#accuracy_result{
+    color: #fd006d;
+    font-weight: bold;
+}
