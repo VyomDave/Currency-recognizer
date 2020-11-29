@@ -61,6 +61,6 @@ function start(){
     Webcam.attach("#camera");
     setTimeout(function(){
       capture()
-    },3000
+    },6000
     )
 }
